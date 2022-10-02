@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Inter-Bold';
+    src: url(./font/inter/Inter-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Inter-Light';
+    src: url(./font/inter/Inter-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Inter-Semibold';
+    src: url(./font/inter/Inter-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Inter-Regular';
+    src: url(./font/inter/Inter-Regular.ttf) format('truetype');
+}
